@@ -1,5 +1,5 @@
 {
-"Pokemon";
+"Pokemon":
 [
 {"PokemonName":"Pikachu","PokemonDescription":"Pikachu can generate powerful electricity and have cheek sacs that are extra soft and super stretchy.","PokemonType":"Electric","PokemonLocation":"Virginia","PokeImage":"https://cdn.pixabay.com/photo/2018/08/27/00/07/toy-3633751_960_720.jpg"},
 {"PokemonName":"Charmander","PokemonDescription":"It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.","PokemonType":"Fire","PokemonLocation":"New York","PokeImage":"https://image.shutterstock.com/image-photo/tulungagung-jawa-timur-november-4-600w-1846991638.jpg"},
